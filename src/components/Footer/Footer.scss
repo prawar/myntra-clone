@@ -1,0 +1,67 @@
+.footer {
+  background-color: #f6f6f6;
+  display: flex;
+  justify-content: space-around;
+  font-family: "Gill Sans", sans-serif;
+  .footer--row {
+    margin-left: 40px;
+  }
+}
+p {
+  font-size: 13px;
+  color: #6f6f6f;
+}
+h3 {
+  font-size: 14px;
+  color: #363636;
+  margin-bottom: 1rem;
+}
+b {
+  color: #363636;
+}
+
+.appStore {
+  margin-right: 10px;
+}
+
+.social {
+  margin-top: 20px;
+}
+
+.social1 {
+  color: rgb(112, 110, 110);
+  margin-right: 3px;
+}
+.que {
+  display: flex;
+  position: relative;
+  height: 40px;
+}
+
+.quality {
+  font-size: 18px;
+  color: rgb(95, 94, 94);
+}
+
+.footer2 {
+  background-color: rgba(192, 192, 192, 0.26);
+  padding-bottom: 1%;
+  color: #6f6f6f;
+}
+.break {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.coteagry {
+  font-size: 14px;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  justify-content: space-between;
+}
+
+.que2 {
+  padding: 4px;
+}

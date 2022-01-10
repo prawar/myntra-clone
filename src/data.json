@@ -1,0 +1,188 @@
+[
+    {
+        "id": 1020,
+        "Gender": "Male",
+        "Category": "T-shirt",
+        "brand": "HRX by Hritik Roshan",
+        "title": "Printed Cotton T-shirt",
+        "size": ["S","M","L","XL"],
+        "Price": 349
+    },
+    {
+        "id": 1001,
+        "Gender": "Male",
+        "Category": "Shirt",
+        "brand": "Roadster",
+        "title": "Men Cotton Casual Shirt",
+        "size": ["S","M","L","XL"],
+        "Price": 899
+    },
+    {
+        "id": 1002,
+        "Gender": "Male",
+        "Category": "Blazer",
+        "brand": "Moda Rapido",
+        "title": "Single-Breasted Casual Blazer",
+        "size": ["S","M","L","XL"],
+        "Price": 1899
+    },
+    {
+        "id": 1003,
+        "Gender": "Male",
+        "Category": "Pants",
+        "brand": "Puma",
+        "title": "Men Mesh Overlay Sweat Pants",
+        "size": ["S","M","L","XL"],
+        "Price": 1799
+    },
+    {
+        "id": 1004,
+        "Gender": "Male",
+        "Category": "Trouser",
+        "brand": "Wrogn",
+        "title": "Men Cotton Casual Shirt",
+        "size": ["S","M","L","XL"],
+        "Price": 899
+    },
+
+
+    {
+        "id": 1005,
+        "Gender": "Female",
+        "Category": "T-shirt",
+        "brand": "HRX by Hritik Roshan",
+        "title": "Printed Cotton T-shirt",
+        "size": ["S","M","L","XL"],
+        "Price": 349
+    },
+    {
+        "id": 1006,
+        "Gender": "Female",
+        "Category": "Shirt",
+        "brand": "Roadster",
+        "title": "Woman Cotton Casual Shirt",
+        "size": ["S","M","L","XL"],
+        "Price": 899
+    },
+    {
+        "id": 1019,
+        "Gender": "Female",
+        "Category": "Blazer",
+        "brand": "Moda Rapido",
+        "title": " Double Breasted Cropped Blazer",
+        "size": ["S","M","L","XL"],
+        "Price": 809
+    },
+    {
+        "id": 1007,
+        "Gender": "Female",
+        "Category": "Pants",
+        "brand": "Puma",
+        "title": "Woman Mesh Overlay Sweat Pants",
+        "size": ["S","M","L","XL"],
+        "Price": 1799
+    },
+    {
+        "id": 1008,
+        "Gender": "Female",
+        "Category": "Trouser",
+        "brand": "Wrogn",
+        "title": "Woman Cotton Casual Shirt",
+        "size": ["S","M","L","XL"],
+        "Price": 899
+    },
+    
+
+    {
+        "id": 1009,
+        "Gender": "Boys",
+        "Category": "T-shirt",
+        "brand": "HRX by Hritik Roshan",
+        "title": "Printed Cotton T-shirt",
+        "size": ["2-3Y","4-5Y","6-7Y","8-9Y"],
+        "Price": 476
+    },
+    {
+        "id": 1010,
+        "Gender": "Boys",
+        "Category": "Shirt",
+        "brand": "Roadster",
+        "title": "Boy Cotton Casual Shirt",
+        "size": ["2-3Y","4-5Y","6-7Y","8-9Y"],
+        "Price": 899
+    },
+    {
+        "id": 1011,
+        "Gender": "Boys",
+        "Category": "Blazer",
+        "brand": "Moda Rapido",
+        "title": "Casual Blazer",
+        "size": ["2-3Y","4-5Y","6-7Y","8-9Y"],
+        "Price": 1100
+    },
+    {
+        "id": 1012,
+        "Gender": "Boys",
+        "Category": "Pants",
+        "brand": "Puma",
+        "title": "Boy Mesh Overlay Sweat Pants",
+        "size": ["2-3Y","4-5Y","6-7Y","8-9Y"],
+        "Price": 700
+    },
+    {
+        "id": 1013,
+        "Gender": "Boys",
+        "Category": "Trouser",
+        "brand": "Wrogn",
+        "title": "boy Cotton Casual Shirt",
+        "size": ["2-3Y","4-5Y","6-7Y","8-9Y"],
+        "Price": 500
+    },
+
+
+    {
+        "id": 1014,
+        "Gender": "Girls",
+        "Category": "T-shirt",
+        "brand": "HRX by Hritik Roshan",
+        "title": "Printed Cotton T-shirt",
+        "size": ["2-3Y","4-5Y","6-7Y","8-9Y"],
+        "Price": 476
+    },
+    {
+        "id": 1015,
+        "Gender": "Girls",
+        "Category": "Shirt",
+        "brand": "Roadster",
+        "title": "Boy Cotton Casual Shirt",
+        "size": ["2-3Y","4-5Y","6-7Y","8-9Y"],
+        "Price": 899
+    },
+    {
+        "id": 1016,
+        "Gender": "Girls",
+        "Category": "Blazer",
+        "brand": "Moda Rapido",
+        "title": "Casual Blazer",
+        "size": ["2-3Y","4-5Y","6-7Y","8-9Y"],
+        "Price": 1100
+    },
+    {
+        "id": 1017,
+        "Gender": "Girls",
+        "Category": "Pants",
+        "brand": "Puma",
+        "title": "Girl Mesh Overlay Sweat Pants",
+        "size": ["2-3Y","4-5Y","6-7Y","8-9Y"],
+        "Price": 700
+    },
+    {
+        "id": 1018,
+        "Gender": "Girls",
+        "Category": "Trouser",
+        "brand": "Wrogn",
+        "title": "Girl Cotton Casual Shirt",
+        "size": ["2-3Y","4-5Y","6-7Y","8-9Y"],
+        "Price": 500
+    }
+]
